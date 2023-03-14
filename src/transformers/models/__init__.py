@@ -102,6 +102,7 @@ from . import (
     led,
     levit,
     lilt,
+    llama,
     longformer,
     longt5,
     luke,
